@@ -3,7 +3,7 @@
 
 # imports
 import copy
-import reqeusts
+import requests
 
 from common.config import empty, abuseUrl
 from common.apiKeys import abuseKey
